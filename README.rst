@@ -5,7 +5,7 @@ Timer
 =====
 Code: `./projects/timer <./projects/timer>`_
 
-- **languages:** JavaScript, HTML, CSS
+- **Languages:** JavaScript, HTML, CSS
 - **Description:** You can set the timer (its minutes and seconds), start it and stop it.
 
   - Minutes must be at least 0
