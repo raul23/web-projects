@@ -53,6 +53,7 @@ function startTimer() {
   }, 1000);
   messageTimer.innerText = "Timer started...";
 }
+
 function stopTimer(message=null) {
   console.log("stopTimer");
   timerStarted = false;
