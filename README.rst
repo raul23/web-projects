@@ -15,6 +15,7 @@ Timer
   - `codepen.io <https://codepen.io/raul23/pen/rNZMyzZ>`_
 - **Languages:** JavaScript, HTML, CSS
 - **Description:** You can set the timer (its minutes and seconds), start it and stop it.
+- **Functionalities**:
 
   - Minutes must be at least 0
   - Seconds must be between 0 and 59 (inclusive)
@@ -23,3 +24,5 @@ Timer
     valid ones will be used to continue the count of the timer
     
     Minutes or seconds are ``NaN`` if we enter the plus and minus signs in the input field, e.g. ``+-54``
+  - If the timer is running and you press start, the START button doesn't have any effect on the timer, i.e. the timer continues its count
+  
