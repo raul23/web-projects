@@ -19,5 +19,7 @@ Timer
   - Minutes must be at least 0
   - Seconds must be between 0 and 59 (inclusive)
   - The minutes and seconds can be incremented/decremented with arrows (up/down) or entered directly into the input field
-  - If minutes or seconds are negative (when entered directly into the input field), they will be rejected and the previous 
+  - If minutes or seconds are negative or ``NaN`` (when entered directly into the input field), they will be rejected and the previous 
     valid ones will be used to continue the count of the timer
+    
+    Minutes or seconds are ``NaN`` if we enter the plus and minus signs in the input field, e.g. ``+-54``
