@@ -3,11 +3,10 @@ web projects
 ============
 Timer
 =====
-Code: 
+- **Code:**
 
-- `./projects/timer (github) <./projects/timer>`_
-- `codepen.io <https://codepen.io/raul23/pen/rNZMyzZ>`_
-
+  - `./projects/timer (github) <./projects/timer>`_
+  - `codepen.io <https://codepen.io/raul23/pen/rNZMyzZ>`_
 - **Languages:** JavaScript, HTML, CSS
 - **Description:** You can set the timer (its minutes and seconds), start it and stop it.
 
