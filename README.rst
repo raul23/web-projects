@@ -27,4 +27,6 @@ Timer
   - While the timer is running, you can set its minutes and seconds and the timer will start its count from the
     newly entered minutes/seconds
   - If the timer is running and you press start, the START button doesn't have any effect on the timer, i.e. the timer continues its count
+  - When the seconds are between 0 and 9 (inclusive), the seconds are displayed with a leading zero, e.g. ``07``
+  - When the timer runs out of time, the message "Time's up!" is displayed and then timer display its initial state (60:00) 
   
