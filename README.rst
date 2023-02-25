@@ -33,4 +33,4 @@ Timer
 
   - ``setInterval()`` calls an anonymous function every second that updates the timer's display (minutes and seconds) and
     shows the appropriate message (e.g. "Timer started...") below the time
-  - When the STOP button is pressed, ``setInterval()`` is stopped and the timer's display is initialized to 60:00
+  - When the STOP button is pressed, ``setInterval()`` is stopped with ``clearInterval()`` and the timer's display is initialized to 60:00
