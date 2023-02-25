@@ -3,6 +3,11 @@ web projects
 ============
 Timer
 =====
+.. image:: ./projects/timer/images/timer.png
+   :target: ./projects/timer/images/timer.png
+   :align: center
+   :alt: Timer: input fields and buttons
+   
 - **Code:**
 
   - `./projects/timer (github) <./projects/timer>`_
