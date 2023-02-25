@@ -1,6 +1,6 @@
-============
-web projects
-============
+=====================
+Personal web projects
+=====================
 Timer
 =====
 .. raw:: html
