@@ -1,1 +1,12 @@
+/* https://stackoverflow.com/a/6046196 */
+input, label {
+    display:block;
+}
 
+/* https://www.w3schools.com/css/css_align.asp */
+.center {
+  margin: auto;
+  width: 60%;
+  /*border: 3px solid #73AD21;*/
+  padding: 10px;
+}
