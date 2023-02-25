@@ -4,6 +4,8 @@ let minutesTimer = document.getElementById("minutesTimer");
 let secondsTimer = document.getElementById("secondsTimer");
 let minutes = parseInt(minutesTimer.value);
 let seconds = parseInt(secondsTimer.value);
+let prevMinutes = null;
+let prevSeconds = null;
 let timerStarted = false;
 
 function displaySeconds() {
@@ -25,8 +27,7 @@ function startTimer() {
     console.log("Tic toc");
     minutes = parseInt(minutesTimer.value);
     seconds = parseInt(secondsTimer.value);
-    let prevSeconds = null;
-    if (seconds > 59 || seconds < 0) {
+    if (seconds > 59 || seconds < 0 || isNaN(seconds)) {
       if (prevSeconds > 59 || prevSeconds < 0 || prevSeconds === null) {
         seconds = 1;
         prevSeconds = seconds;
@@ -34,7 +35,17 @@ function startTimer() {
       else {
         seconds = prevSeconds;
       }
-      displaySeconds()
+      displaySeconds();
+    }
+    if (minutes < 0 || isNaN(minutes)) {
+      if (prevMinutes < 0 || prevMinutes === null) {
+        minutes = 60;
+        prevMinutes = minutes;
+      }
+      else {
+        minutes = prevMinutes;
+      }
+      minutesTimer.value = minutes;
     }
     if (seconds == 0) {
       seconds = 60;
@@ -48,8 +59,9 @@ function startTimer() {
       }
     }
     seconds -= 1;
+    prevMinutes = minutes;
     prevSeconds = seconds;
-    displaySeconds()
+    displaySeconds();
   }, 1000);
   messageTimer.innerText = "Timer started...";
 }
@@ -69,4 +81,3 @@ function stopTimer(message=null) {
   minutes = minutesTimer.value;
   seconds = 0;
 }
-
