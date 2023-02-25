@@ -1,1 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="style.css"/>
+    </head>
+<body>
+  <div class="center">
+    <div style="float:left;margin-right:8px">
+      <label for="minutesTimer">Minutes</label>
+      <input id="minutesTimer" type="number" value="60" min="0" max="300" style="font-size:40px; width:85%; text-align:right">
+    </div>
+    <div style="float:left;margin-right:12px">
+      <p style="font-size:25px">:</p>
+    </div>
+    <div style="float:left;">
+      <label for="secondsTimer">Seconds</label>
+      <input id="secondsTimer" type="number" value="00" min="0" max="59" style="font-size:40px; width:95%">
+    </div>
+
+    <br style="clear:both;" />
+
+    <div style="margin-top:20px; margin-left:35px">
+      <button type="button" onclick="startTimer()" style="font-size:20px">Start</button>
+      <button type="button" onclick="stopTimer()" style="font-size:20px">Stop</button>
+    </div>
+
+    <div>
+      <p id="messageTimer" style="border: 3px solid #73AD21; width: 26%">Hello!</p>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
 
