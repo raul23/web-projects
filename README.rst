@@ -57,7 +57,7 @@ Timer with Bootstrap 5 and chime sound added
 - **Languages:** JavaScript, HTML, CSS, Bootstrap 5
 - **Description:** You can set the timer (its minutes and seconds), start it and stop it. 
 - **Functionalities**: Same functionalities as the previous `timer <#timer>`_ project but this time a
-  chime sound is played at the end (twice in a row) when the timer runs out time. If the time is stopped
+  chime sound is played at the end (twice in a row) when the timer runs out time. If the timer is stopped
   by pressing on the stop button, no sound is played.
   
   The sound (*mp3*) is taken from `freesoundslibrary.com <https://www.freesoundslibrary.com/ding-ding-sound-effect/>`_
