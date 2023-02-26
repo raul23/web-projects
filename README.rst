@@ -42,7 +42,9 @@ Timer
 
 Timer with Bootstrap 5 and chime sound added
 ============================================
-`:information_source:` It is based on the `timer <#timer>`_ project
+`:information_source:` 
+
+  It is based on the previous `timer <#timer>`_ project
 
 .. raw:: html
 
