@@ -40,6 +40,29 @@ Timer
     shows the appropriate message (e.g. "Timer started...") below the time
   - When the STOP button is pressed, ``setInterval()`` is stopped with ``clearInterval()`` and the timer's display is initialized to 60:00
 
-Timer with Bootstrap 5
-======================
-TODO
+Timer with Bootstrap 5 and chime sound added
+============================================
+`:information_source:` It is based on the `timer <#timer>`_ project
+
+.. raw:: html
+
+  <p align="center">
+    <img src="./projects/timer_bootstrap/images/timer.png">
+  </p>
+
+- **Code:**
+
+  - `./projects/timer_bootstrap (github) <./projects/timer_bootstrap>`_
+  - `codepen.io <https://codepen.io/raul23/pen/xxaEeEy>`_
+- **Languages:** JavaScript, HTML, CSS, Bootstrap 5
+- **Description:** You can set the timer (its minutes and seconds), start it and stop it. 
+- **Functionalities**: Same functionalities as the other `timer <#timer>`_ project but this time a
+  chime sound is played at the end (twice in a row) when the timer runs out time. If the time is stopped
+  by pressing on the stop button, no sound is played.
+  
+    The sound (*mp3*) is taken from `freesoundslibrary.com <https://www.freesoundslibrary.com/ding-ding-sound-effect/>`_
+    
+     License: `Attribution 4.0 International (CC BY 4.0) <https://creativecommons.org/licenses/by/4.0/>`_. 
+     You are allowed to use sound effects free of charge and royalty free in your multimedia projects for commercial or 
+     non-commercial purposes.
+  
