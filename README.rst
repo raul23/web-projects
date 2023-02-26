@@ -60,7 +60,7 @@ Timer with Bootstrap 5 and chime sound added
   chime sound is played at the end (twice in a row) when the timer runs out time. If the time is stopped
   by pressing on the stop button, no sound is played.
   
-    The sound (*mp3*) is taken from `freesoundslibrary.com <https://www.freesoundslibrary.com/ding-ding-sound-effect/>`_
+  The sound (*mp3*) is taken from `freesoundslibrary.com <https://www.freesoundslibrary.com/ding-ding-sound-effect/>`_
     
      License: `Attribution 4.0 International (CC BY 4.0) <https://creativecommons.org/licenses/by/4.0/>`_. 
      You are allowed to use sound effects free of charge and royalty free in your multimedia projects for commercial or 
