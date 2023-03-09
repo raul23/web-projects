@@ -5,7 +5,50 @@ Personal web projects
    :depth: 5
    :local:
    :backlinks: top
-   
+
+Steering behaviors
+==================
+Flocking algorithm: a JavaScript port of Paul Roberts' C# implementation of flocking
+------------------------------------------------------------------------------------
+.. raw:: html
+
+   <div align="center">
+    <a href="https://codepen.io/raul23/full/rNZwZVB" target="_blank">
+      <img src="https://github.com/raul23/flocking-algorithms/blob/main/images/fullscreen.png">
+    </a>
+  </div>
+  
+- I ported a flocking algorithm implemented in C# code to JavaScript. The original author of the C# implementation
+  is Paul Roberts and it is from the book `Artificial Intelligence in Games 
+  <https://www.routledge.com/Artificial-Intelligence-in-Games/Roberts/p/book/9781032033228>`_.
+- **JavaScript code:** 
+
+  - `codepen.io <https://codepen.io/raul23/full/rNZwZVB>`_ (fullscreen; **Test it live!**)
+  - `codepen.io <https://codepen.io/raul23/pen/rNZwZVB>`_ (source code)
+- More information about this JavaScript port can be found on my GitHub page 
+  `Flocking algorithms <https://github.com/raul23/flocking-algorithms>`_
+
+Wandering: a JavaScript port of Paul Roberts' C# implementation of wandering
+----------------------------------------------------------------------------
+.. raw:: html
+
+   <div align="center">
+    <a href="https://codepen.io/raul23/full/LYJzygm" target="_blank">
+      <img src="https://raw.githubusercontent.com/raul23/steering-behaviors/main/images/wandering_fullscreen_with_options.png">
+    </a>
+    <p align="center">Debug mode enabled: blue lines represent the facing direction where the green balls are heading</p>
+  </div>
+  
+- I ported a wandering algorithm implemented in C# code to JavaScript. The original author of the C# implementation
+  is Paul Roberts and it is from the book `Artificial Intelligence in Games 
+  <https://www.routledge.com/Artificial-Intelligence-in-Games/Roberts/p/book/9781032033228>`_.
+- **JavaScript code:** 
+
+  - `codepen.io <https://codepen.io/raul23/full/LYJzygm>`_ (fullscreen; **Test it live!**)
+  - `codepen.io <https://codepen.io/raul23/pen/LYJzygm>`_ (source code)
+- More information about this JavaScript port can be found on my GitHub page 
+  `Steering behaviors <https://github.com/raul23/steering-behaviors#wandering-algorithm>`_
+
 Timer
 =====
 .. raw:: html
