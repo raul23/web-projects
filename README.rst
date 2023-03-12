@@ -32,7 +32,7 @@ A port of Paul Roberts' C# implementation of all steering behaviors
 - `codepen.io <https://codepen.io/raul23/full/KKxQKzK>`_ (fullscreen)
 - `codepen.io <https://codepen.io/raul23/pen/KKxQKzK>`_ (source code)
 
-- Each steering behavior has as an associated weight. These are the default values:
+- Each steering behavior has an associated weight. These are the default values:
 
   - Arrive weight: 0.5
   - Avoidance weight: 0.75
