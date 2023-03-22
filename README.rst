@@ -17,32 +17,30 @@ Chabot assistant + ELIZA
     <p align="center">Chatbot's messages are in the grey box and those from the user are in the blue box.</p>
   </div>
 
-`:information_source:` 
+- I based the user interface on indently's `Messenger Chat Bot <https://github.com/indently/mscbot>`_.
+Their project already comes with some simple bot responses to simple queries such as:
 
- - I based the user interface on indently's `Messenger Chat Bot <https://github.com/indently/mscbot>`_.
-   Their project already comes with some simple bot responses to simple queries such as:
- 
-   - ``hello`` -> ``Hello there!``
-   - ``goodbye`` -> ``Talk to you later!``
- - Their user interface is collapsible
- - By default, the original project makes the chatbot wait for 1 second before responding to the user's query
- - This is a very simple chatbot, i.e. you won't be able to have long and meaningful conversations with it (like you would with ChatGPT) but
-   the idea is to make it a useful assistant with helpful features.
- - Chabot assistant:
- 
-   - Since the chatbot is based on the library `math.js <https://mathjs.org/>`_, it will be able to respond to 
-     all sorts of computation questions such as adding/multiplying, converting some units to other units, etc
-   - You can ask the date with the ``date`` command or the more "human" commands: what date, what's the date
-   - You can ask the time for certain cities (Madrid, Hong Kong, New York): ``time city_name``
-     
-     Or you can ask for the time in your timezone with: ``time now``
-     
-     To get a list of all supported cities: ``time list``
- - This chatbot project is a **work in progress** since I will be adding features as I go
- - The chatbot can also act as a "psychotherapist" (like `ELIZA <https://en.wikipedia.org/wiki/ELIZA>`_). I ported a Python
-   implementation of ELIZA by `Joe Strout, Jeff Epler, Jez Higgins
-   <https://github.com/jeffshrager/elizagen.org/blob/master/Other_Elizas/20120311StroutEplerHigginsEliza.py>`_ (2005).
- - More information about this project can be found at my GitHub page: `Chatbots <https://github.com/raul23/chatbots>`_
+- ``hello`` -> ``Hello there!``
+- ``goodbye`` -> ``Talk to you later!``
+- Their user interface is collapsible
+- By default, the original project makes the chatbot wait for 1 second before responding to the user's query
+- This is a very simple chatbot, i.e. you won't be able to have long and meaningful conversations with it (like you would with ChatGPT) but
+  the idea is to make it a useful assistant with helpful features.
+- Chabot assistant:
+
+  - Since the chatbot is based on the library `math.js <https://mathjs.org/>`_, it will be able to respond to 
+    all sorts of computation questions such as adding/multiplying, converting some units to other units, etc
+  - You can ask the date with the ``date`` command or the more "human" commands: what date, what's the date
+  - You can ask the time for certain cities (Madrid, Hong Kong, New York): ``time city_name``
+
+    Or you can ask for the time in your timezone with: ``time now``
+
+    To get a list of all supported cities: ``time list``
+- This chatbot project is a **work in progress** since I will be adding features as I go
+- The chatbot can also act as a "psychotherapist" (like `ELIZA <https://en.wikipedia.org/wiki/ELIZA>`_). I ported a Python
+  implementation of ELIZA by `Joe Strout, Jeff Epler, Jez Higgins
+  <https://github.com/jeffshrager/elizagen.org/blob/master/Other_Elizas/20120311StroutEplerHigginsEliza.py>`_ (2005).
+- More information about this project can be found at my GitHub page: `Chatbots <https://github.com/raul23/chatbots>`_
 
 `:warning:` 
 
