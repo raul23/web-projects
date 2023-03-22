@@ -22,6 +22,8 @@ Chabot assistant + ELIZA
 - `codepen.io <https://codepen.io/raul23/full/RwYYJYd>`_ (**Test it live**)
 - `github.com/raul23/chatbots <./code/javascript>`_ (**source code**)
 
+`:information_source:`
+
 - I based the user interface on indently's `Messenger Chat Bot <https://github.com/indently/mscbot>`_.
   Their project already comes with some simple bot responses to simple queries such as:
   
