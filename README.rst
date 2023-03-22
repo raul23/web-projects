@@ -6,6 +6,42 @@ Personal web projects
    :local:
    :backlinks: top
 
+Chabot assistant + ELIZA
+========================
+.. raw:: html
+
+   <div align="center">
+    <a href="https://codepen.io/raul23/full/RwYYJYd" target="_blank">
+      <img src="https://raw.githubusercontent.com/raul23/chatbots/main/images/javascript_eliza.png">
+    </a>
+  </div>
+
+`:information_source:` 
+
+ - I based the user interface on indently's `Messenger Chat Bot <https://github.com/indently/mscbot>`_.
+   Their project already comes with some simple bot responses to simple queries such as:
+ 
+   - ``hello`` -> ``Hello there!``
+   - ``goodbye`` -> ``Talk to you later!``
+ - Their user interface is collapsible
+ - By default, the original project makes the chatbot wait for 1 second before responding to the user's query
+ - This is a very simple chatbot, i.e. you won't be able to have long and meaningful conversations with it (like you would with ChatGPT) but
+   the idea is to make it a useful assistant with helpful features.
+ - This chatbot project is a **work in progress** since I will be adding features as I go
+ - The chatbot can also act as a "psychotherapist" (like `ELIZA <https://en.wikipedia.org/wiki/ELIZA>`_). I ported a Python
+   implementation of ELIZA by `Joe Strout, Jeff Epler, Jez Higgins
+   <https://github.com/jeffshrager/elizagen.org/blob/master/Other_Elizas/20120311StroutEplerHigginsEliza.py>`_ (2005).
+ - More information about this project can be found at my GitHub page: `Chatbots <https://github.com/raul23/chatbots>`_
+
+`:warning:` 
+
+ Don't take this "therapist" seriously. It is just a program that tries to mimic a real therapist.
+
+**Test it live and source code** ⭐
+
+- `codepen.io <https://codepen.io/raul23/full/RwYYJYd>`_ (**Test it live**)
+- `github.com/raul23/chatbots <./code/javascript>`_ (**source code**)
+
 Steering behaviors
 ==================
 A port of Paul Roberts' C# implementation of all steering behaviors
