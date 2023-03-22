@@ -14,6 +14,7 @@ Chabot assistant + ELIZA
     <a href="https://codepen.io/raul23/full/RwYYJYd" target="_blank">
       <img src="https://raw.githubusercontent.com/raul23/chatbots/main/images/javascript_eliza.png">
     </a>
+    <p align="center">Chatbot's messages are in the grey box and those from the user are in the blue box.</p>
   </div>
 
 `:information_source:` 
