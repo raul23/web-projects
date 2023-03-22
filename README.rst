@@ -18,12 +18,10 @@ Chabot assistant + ELIZA
   </div>
 
 - I based the user interface on indently's `Messenger Chat Bot <https://github.com/indently/mscbot>`_.
-Their project already comes with some simple bot responses to simple queries such as:
-
-- ``hello`` -> ``Hello there!``
-- ``goodbye`` -> ``Talk to you later!``
-- Their user interface is collapsible
-- By default, the original project makes the chatbot wait for 1 second before responding to the user's query
+  Their project already comes with some simple bot responses to simple queries such as:
+  
+  - ``hello`` -> ``Hello there!``
+  - ``goodbye`` -> ``Talk to you later!``
 - This is a very simple chatbot, i.e. you won't be able to have long and meaningful conversations with it (like you would with ChatGPT) but
   the idea is to make it a useful assistant with helpful features.
 - Chabot assistant:
