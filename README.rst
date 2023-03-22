@@ -17,6 +17,11 @@ Chabot assistant + ELIZA
     <p align="center">Chatbot's messages are in the grey box and those from the user are in the blue box.</p>
   </div>
 
+**Test it live and source code** ⭐
+
+- `codepen.io <https://codepen.io/raul23/full/RwYYJYd>`_ (**Test it live**)
+- `github.com/raul23/chatbots <./code/javascript>`_ (**source code**)
+
 - I based the user interface on indently's `Messenger Chat Bot <https://github.com/indently/mscbot>`_.
   Their project already comes with some simple bot responses to simple queries such as:
   
@@ -43,11 +48,6 @@ Chabot assistant + ELIZA
 `:warning:` 
 
  Don't take this "therapist" seriously. It is just a program that tries to mimic a real therapist.
-
-**Test it live and source code** ⭐
-
-- `codepen.io <https://codepen.io/raul23/full/RwYYJYd>`_ (**Test it live**)
-- `github.com/raul23/chatbots <./code/javascript>`_ (**source code**)
 
 Steering behaviors
 ==================
