@@ -12,15 +12,15 @@ let sound2 = sound.cloneNode(true);
 
 function displaySeconds() {
   if (seconds < 10) {
-      secondsTimer.value = "0" + seconds;
-    }
-    else {
-      secondsTimer.value = seconds;
-    }
+    secondsTimer.value = "0" + seconds;
+  }
+  else {
+    secondsTimer.value = seconds;
+  }
 }
 
 function playSound2() {
-    sound2.play();
+  sound2.play();
 }
 
 function startTimer() {
