@@ -80,8 +80,6 @@ Chess with AI
 
 Steering behaviors
 ==================
-A port of Paul Roberts' C# implementation of all steering behaviors
--------------------------------------------------------------------
 .. raw:: html
 
    <div align="center">
