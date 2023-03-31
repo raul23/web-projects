@@ -71,9 +71,9 @@ Chess with AI
    book `Artificial Intelligence in Games <https://www.routledge.com/Artificial-Intelligence-in-Games/Roberts/p/book/9781032033228>`_. 
  - I am using the pieces and chessboard images from `ChessJs <https://github.com/Jexan/ChessJs>`_ 
 
-**JavaScript port:** you can run the JavaScript code (which uses ``phaser.js``) through your browser via codepen.io ⭐
+**JavaScript port:** you can run the JavaScript code (which uses ``phaser.js``) through your browser via codepen.io
 
-- `codepen.io <https://codepen.io/raul23/full/WNgPJJj>`_ (**Test it live**)
+- `codepen.io <https://codepen.io/raul23/full/WNgPJJj>`_ (**Test it live**) ⭐
 - `codepen.io <https://codepen.io/raul23/pen/WNgPJJj>`_ (source code)
 - `github.com <https://github.com/raul23/chess-ai/tree/main/code/javascript>`_ (source code)
 - More information about this project can be found at my GitHub page: `Chess-AI <https://github.com/raul23/chess-ai>`_
@@ -97,9 +97,9 @@ Steering behaviors
  book `Artificial Intelligence in Games <https://www.routledge.com/Artificial-Intelligence-in-Games/Roberts/p/book/9781032033228>`_ to 
  JavaScript using the ``phaser.js`` 2D game development library.
  
-**JavaScript port:** you can run the JavaScript code (which uses ``phaser.js``) through your browser via codepen.io ⭐
+**JavaScript port:** you can run the JavaScript code (which uses ``phaser.js``) through your browser via codepen.io
 
-- `codepen.io <https://codepen.io/raul23/full/KKxQKzK>`_ (**Test it live**)
+- `codepen.io <https://codepen.io/raul23/full/KKxQKzK>`_ (**Test it live**) ⭐
 - `codepen.io <https://codepen.io/raul23/pen/KKxQKzK>`_ (source code)
 - `github.com <https://github.com/raul23/steering-behaviors/tree/main/code/combining>`_ (source code)
 
@@ -172,7 +172,7 @@ Timer
 - **Code:**
 
   - `./projects/timer (github) <./projects/timer>`_
-  - `codepen.io <https://codepen.io/raul23/pen/rNZMyzZ>`_
+  - `codepen.io <https://codepen.io/raul23/pen/rNZMyzZ>`_ ⭐
 - **Languages:** JavaScript, HTML, CSS
 - **Description:** You can set the timer (its minutes and seconds), start it and stop it.
 - **Functionalities**:
@@ -208,7 +208,7 @@ Timer with Bootstrap 5 and chime sound
 - **Code:**
 
   - `./projects/timer_bootstrap (github) <./projects/timer_bootstrap>`_
-  - `codepen.io <https://codepen.io/raul23/pen/xxaEeEy>`_
+  - `codepen.io <https://codepen.io/raul23/pen/xxaEeEy>`_ ⭐
 - **Languages:** JavaScript, HTML, CSS, Bootstrap 5
 - **Description:** You can set the timer (its minutes and seconds), start it and stop it. 
 - **Functionalities**: Same functionalities as the previous `timer <#timer>`_ project but this time a
