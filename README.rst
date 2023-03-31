@@ -51,6 +51,33 @@ Chabot assistant + ELIZA
 
  Don't take this "therapist" seriously. It is just a program that tries to mimic a real therapist.
 
+Chess with AI
+=============
+.. raw:: html
+
+   <div align="center">
+    <a href="https://codepen.io/raul23/full/WNgPJJj" target="_blank">
+      <img src="https://raw.githubusercontent.com/raul23/chess-ai/main/images/chess_fullscreen.png">
+    </a>
+    <p align="center">AI controls the black pieces and the user, the white ones.
+    <br/><a href="https://codepen.io/raul23/full/WNgPJJj">Test it live.</a></p>
+  </div>
+
+**Description**
+
+`:information_source:` 
+
+ - It is a JavaScript port of the C# chess program from Paul Roberts' 
+   book `Artificial Intelligence in Games <https://www.routledge.com/Artificial-Intelligence-in-Games/Roberts/p/book/9781032033228>`_. 
+ - I am using the pieces and chessboard images from `ChessJs <https://github.com/Jexan/ChessJs>`_ 
+
+**JavaScript port:** you can run the JavaScript code (which uses ``phaser.js``) through your browser via codepen.io
+
+- `codepen.io <https://codepen.io/raul23/full/WNgPJJj>`_ (fullscreen)
+- `codepen.io <https://codepen.io/raul23/pen/WNgPJJj>`_ (source code)
+- `github.com <https://github.com/raul23/chess-ai/tree/main/code/javascript>`_ (source code)
+- More information about this project can be found at my GitHub page: `Chess-AI <https://github.com/raul23/chess-ai>`_
+
 Steering behaviors
 ==================
 A port of Paul Roberts' C# implementation of all steering behaviors
