@@ -145,7 +145,7 @@ Steering behaviors
   - Flocking weight: 0.25
   - Seek weight: 0.5
   - Wander weight: 0.25
-- The user can control a red "zombie" (.i.e. ball) with the arrow keys and can move it anywhere around the
+- The user can control a red "zombie" (i.e. ball) with the arrow keys and can move it anywhere around the
   canvas so that the other green "zombies" can use it as a target to avoid or follow.
   
   In the case of the arrive behavior, 
