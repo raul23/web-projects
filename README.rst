@@ -71,7 +71,7 @@ Chess with AI
    book `Artificial Intelligence in Games <https://www.routledge.com/Artificial-Intelligence-in-Games/Roberts/p/book/9781032033228>`_. 
  - I am using the pieces and chessboard images from `ChessJs <https://github.com/Jexan/ChessJs>`_ 
 
-**JavaScript port:** you can run the JavaScript code (which uses ``phaser.js``) through your browser via codepen.io
+**JavaScript port:** you can run the JavaScript code (which uses ``phaser.js``) through your browser via codepen.io ⭐
 
 - `codepen.io <https://codepen.io/raul23/full/WNgPJJj>`_ (**Test it live**)
 - `codepen.io <https://codepen.io/raul23/pen/WNgPJJj>`_ (source code)
@@ -97,7 +97,7 @@ Steering behaviors
  book `Artificial Intelligence in Games <https://www.routledge.com/Artificial-Intelligence-in-Games/Roberts/p/book/9781032033228>`_ to 
  JavaScript using the ``phaser.js`` 2D game development library.
  
-**JavaScript port:** you can run the JavaScript code (which uses ``phaser.js``) through your browser via codepen.io
+**JavaScript port:** you can run the JavaScript code (which uses ``phaser.js``) through your browser via codepen.io ⭐
 
 - `codepen.io <https://codepen.io/raul23/full/KKxQKzK>`_ (**Test it live**)
 - `codepen.io <https://codepen.io/raul23/pen/KKxQKzK>`_ (source code)
