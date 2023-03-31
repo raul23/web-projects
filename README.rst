@@ -17,9 +17,9 @@ Chabot assistant + ELIZA
     <p align="center">Chatbot's messages are in the grey box and those from the user are in the blue box.</p>
   </div>
 
-**Test it live and source code** ⭐
+**Test it live and source code**
 
-- `codepen.io <https://codepen.io/raul23/full/RwYYJYd>`_ (**Test it live**)
+- `codepen.io <https://codepen.io/raul23/full/RwYYJYd>`_ (**Test it live**) ⭐
 - `github.com/raul23/chatbots <./code/javascript>`_ (**source code**)
 
 `:information_source:`
