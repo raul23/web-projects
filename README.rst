@@ -73,7 +73,7 @@ Chess with AI
 
 **JavaScript port:** you can run the JavaScript code (which uses ``phaser.js``) through your browser via codepen.io
 
-- `codepen.io <https://codepen.io/raul23/full/WNgPJJj>`_ (fullscreen)
+- `codepen.io <https://codepen.io/raul23/full/WNgPJJj>`_ (**Test it live**)
 - `codepen.io <https://codepen.io/raul23/pen/WNgPJJj>`_ (source code)
 - `github.com <https://github.com/raul23/chess-ai/tree/main/code/javascript>`_ (source code)
 - More information about this project can be found at my GitHub page: `Chess-AI <https://github.com/raul23/chess-ai>`_
@@ -99,7 +99,7 @@ Steering behaviors
  
 **JavaScript port:** you can run the JavaScript code (which uses ``phaser.js``) through your browser via codepen.io
 
-- `codepen.io <https://codepen.io/raul23/full/KKxQKzK>`_ (fullscreen)
+- `codepen.io <https://codepen.io/raul23/full/KKxQKzK>`_ (**Test it live**)
 - `codepen.io <https://codepen.io/raul23/pen/KKxQKzK>`_ (source code)
 - `github.com <https://github.com/raul23/steering-behaviors/tree/main/code/combining>`_ (source code)
 
